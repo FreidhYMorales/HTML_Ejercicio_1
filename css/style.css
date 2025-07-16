@@ -1,0 +1,35 @@
+*{
+    background-color: gray; /*Fondo de la pagina*/
+}
+
+.box_top{
+     
+    text-align: center;/*Opcion para centrar la imagen dentro de la ventana*/
+    max-width: 100%;/*Opcion para el maximo de ancho en porcentaje*/
+height: auto; /*Ajustar la altura automaticamente el alto de la imagen*/
+
+}
+
+.img_big{
+    width: 100%; /*Tamano de la imagen en porcentaje*/
+}
+
+.imagenes{
+    text-align: center; /*Centrado de la tabla*/
+    margin-top: 20px; /*Margen agregado para no tener las imagenes pegadas*/
+    width: 100%; /*Ancho de la tabla*/
+}
+.imagen{
+    text-align: center; /*Imagenes centradas*/
+}
+
+.imgs{
+    width: 30vw; /*Ancho de la imagen con respecto a la ventana*/
+    background-color: white; /*Fondo blanco para las imagenes con fondo transparente*/
+}
+
+.textos{
+    text-align: justify; /*Alineacion del texto*/
+    text-size-adjust: auto; /*Ajuste del tamano del texto*/
+    vertical-align: middle; /*Alineacion vertical dentro de la celda*/
+}
