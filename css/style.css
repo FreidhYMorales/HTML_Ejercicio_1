@@ -6,7 +6,7 @@
      
     text-align: center;/*Opcion para centrar la imagen dentro de la ventana*/
     max-width: 100%;/*Opcion para el maximo de ancho en porcentaje*/
-height: auto; /*Ajustar la altura automaticamente el alto de la imagen*/
+    height: auto; /*Ajustar la altura automaticamente el alto de la imagen*/
 
 }
 
